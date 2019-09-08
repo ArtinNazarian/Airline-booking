@@ -1,0 +1,144 @@
+Menu
+========
+1. Add Passenger
+2. Delete Passenger
+3. Show Passengers
+4. Exit
+Enter choice: 3
+Booked and Waiting list are empty
+Menu
+========
+1. Add Passenger
+2. Delete Passenger
+3. Show Passengers
+4. Exit
+Enter choice: 2
+No passengers to delete
+Menu
+========
+1. Add Passenger
+2. Delete Passenger
+3. Show Passengers
+4. Exit
+Enter choice: 1
+Enter passenger name: Kate
+Booking Kate on the flight
+Menu
+========
+1. Add Passenger
+2. Delete Passenger
+3. Show Passengers
+4. Exit
+Enter choice: 3
+Booked Passengers
+===================
+Kate
+No passengers on Waiting list
+Menu
+========
+1. Add Passenger
+2. Delete Passenger
+3. Show Passengers
+4. Exit
+Enter choice: 1
+Enter passenger name: Jeff
+Booking Jeff on the flight
+Menu
+========
+1. Add Passenger
+2. Delete Passenger
+3. Show Passengers
+4. Exit
+Enter choice: 1
+Enter passenger name: Ron
+Booking Ron on the flight
+Menu
+========
+1. Add Passenger
+2. Delete Passenger
+3. Show Passengers
+4. Exit
+Enter choice: 3
+Booked Passengers
+===================
+Kate
+Jeff
+Ron
+No passengers on Waiting list
+Menu
+========
+1. Add Passenger
+2. Delete Passenger
+3. Show Passengers
+4. Exit
+Enter choice: 1
+Enter passenger name: Sandy
+Adding Sandy to the waiting list
+Menu
+========
+1. Add Passenger
+2. Delete Passenger
+3. Show Passengers
+4. Exit
+Enter choice: 3
+Booked Passengers
+===================
+Kate
+Jeff
+Ron
+Waiting Passengers
+**********************
+Sandy
+Menu
+========
+1. Add Passenger
+2. Delete Passenger
+3. Show Passengers
+4. Exit
+Enter choice: 1
+Enter passenger name: Bacon
+Adding Bacon to the waiting list
+Menu
+========
+1. Add Passenger
+2. Delete Passenger
+3. Show Passengers
+4. Exit
+Enter choice: 3
+Booked Passengers
+===================
+Jeff
+Ron
+Sandy
+Waiting Passengers
+**********************
+Sandy
+Menu
+========
+1. Add Passenger
+2. Delete Passenger
+3. Show Passengers
+4. Exit
+Enter choice: 2
+Removing Ron from booked passengers
+Adding passenger Sandy from the waiting list to booked
+Menu
+========
+1. Add Passenger
+2. Delete Passenger
+3. Show Passengers
+4. Exit
+Enter choice: 3
+Booked Passengers
+===================
+Sandy
+Waiting Passengers
+**********************
+Bacon
+Menu
+========
+1. Add Passenger
+2. Delete Passenger
+3. Show Passengers
+4. Exit
+Enter choice:
